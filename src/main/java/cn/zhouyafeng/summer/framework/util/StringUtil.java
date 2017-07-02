@@ -1,4 +1,4 @@
-package cn.zhouyafeng.summer.utils;
+package cn.zhouyafeng.summer.framework.util;
 
 import org.apache.commons.lang3.StringUtils;
 

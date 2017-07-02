@@ -18,8 +18,8 @@ import org.apache.commons.dbutils.handlers.MapListHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import cn.zhouyafeng.summer.utils.CollectionUtil;
-import cn.zhouyafeng.summer.utils.PropsUtil;
+import cn.zhouyafeng.summer.framework.util.CollectionUtil;
+import cn.zhouyafeng.summer.framework.util.PropsUtil;
 
 /**
  * 数据库操作助手类

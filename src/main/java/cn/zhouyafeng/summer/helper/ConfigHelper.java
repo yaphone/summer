@@ -3,7 +3,7 @@ package cn.zhouyafeng.summer.helper;
 import java.util.Properties;
 
 import cn.zhouyafeng.summer.framework.ConfigConstant;
-import cn.zhouyafeng.summer.utils.PropsUtil;
+import cn.zhouyafeng.summer.framework.util.PropsUtil;
 
 /**
  * 属性文件助手类

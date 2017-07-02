@@ -1,4 +1,4 @@
-package cn.zhouyafeng.summer.utils;
+package cn.zhouyafeng.summer.framework.util;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

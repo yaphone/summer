@@ -1,4 +1,4 @@
-package cn.zhouyafeng.summer.utils;
+package cn.zhouyafeng.summer.framework.util;
 
 import java.util.Collection;
 import java.util.Map;
