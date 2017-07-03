@@ -72,7 +72,7 @@ public final class ConfigHelper {
 	 * @date 2017年7月2日 下午6:46:14
 	 * @return
 	 */
-	public static String getAppJspPathString() {
+	public static String getAppJspPath() {
 		return PropsUtil.getString(CONFIG_PROPS, ConfigConstant.APP_JSP_PATH, "/WEB-INF/view/");
 	}
 

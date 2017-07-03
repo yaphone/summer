@@ -36,5 +36,17 @@ public final class StringUtil {
 	public static boolean isNotEmpty(String str) {
 		return !isEmpty(str);
 	}
+	
+	/**
+	 * 
+	 *
+	 * @date 2017年7月3日 下午4:24:55
+	 * @param str
+	 * @param split
+	 * @return String[]
+	 */
+	public static String[] splitString(String str, String sep){
+	    return StringUtils.split(str, sep);
+	}
 
 }

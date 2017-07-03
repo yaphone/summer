@@ -11,10 +11,12 @@ import java.lang.annotation.Target;
  * @author https://github.com/yaphone
  * @date 创建时间：2017年7月2日 下午11:33:19
  * @version 1.0
- *
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Action {
-
+    /*
+     * 请求类型与路径
+     */
+    String value();
 }
