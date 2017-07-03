@@ -1,4 +1,4 @@
-package cn.zhouyafeng.summer.helper;
+package cn.zhouyafeng.summer.framework.helper;
 
 import java.util.Properties;
 
