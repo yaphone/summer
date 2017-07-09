@@ -47,7 +47,9 @@ public class DispatcherServlet extends HttpServlet {
 
 	@Override
 	public void init(ServletConfig servletConfig) throws ServletException {
+		System.out.println("-----------------------------------");
 		System.out.println("Hello World123");
+		System.out.println("-----------------------------------");
 		// 初始化Helper相关类
 		HelperLoader.init();
 
